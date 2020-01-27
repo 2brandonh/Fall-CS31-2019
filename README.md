@@ -6,7 +6,7 @@ Introduction to Computer Science at UCLA using C++. Several of these projects ha
 
 **Do not copy the code in these projects directly. As the CS professors change project specifications each quarter, doing so will result in an academic violation and likely a poor grade. This repository is here for my personal reference and to showcase my development in programming over time.**
 
-
+# Score Distribution
 
 | Project  | Score |
 | ------------- | ------------- |
@@ -23,4 +23,14 @@ Basic experimenting with C++ and an IDE. The project asked for a compile, logic,
 
 # Project 2
 The project calculates the suggested fine for a defendant convicted of fraud in the college admissions scandal. Faking athletic credentials results in a more serious punishment and the rates are set to those in the project specification.
+
+# Project 3
+
+# Project 4
+
+# Project 5
+
+# Project 6
+
+# Project 7
   
