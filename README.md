@@ -1,6 +1,8 @@
 # Fall-CS31-2019
 Introduction to Computer Science at UCLA using C++. Several of these projects have frameworks created by David A. Smallberg, the CS31 professor at UCLA, while the implementations were designed by students.
 
+**Do not copy the code in these projects directly. As the CS professors change project specifications each quarter, doing so will result in an academic violation and likely a poor grade. This repository is here for my personal reference and to showcase my development in programming over time.**
+
 
 | Project  | Score |
 | ------------- | ------------- |
@@ -12,5 +14,6 @@ Introduction to Computer Science at UCLA using C++. Several of these projects ha
 | 6  | 25/25  |
 | 7  | 96/100  |
 
-Broadly, these projects involved:
+#Project 1
+  -Basic experimenting with C++ and an IDE. The project asked for a compile, logic, and runtime error to be created within given code.
   
