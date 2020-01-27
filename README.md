@@ -28,7 +28,7 @@ The project calculates the suggested fine for a defendant convicted of fraud in 
 Using a premade utilities file that created an array for a drawing grid, the objective for this project was to create an ASCII drawing application. Commands include "h" for horizontal lines, "v" for vertical lines, "c" for clearing the board, "f" for drawing in the foreground, and "b" for drawing in the background. A command line was required in this project where each command would be parsed and their respective functions used.
 
 # Project 4
-The project focused on arrays and implementing functions to manipulate them. These include appending, looking up an item, rotating a string left, checking for duplicates, reversing order, finding subsequences, looking if an item is in two arrays, orders an array.
+The project focused on arrays and implementing functions to manipulate them. These include appending, looking up an item, rotating a string left, checking for duplicates, reversing order, finding subsequences, looking if an item is in two arrays, and ordering an array.
 
 # Project 5
 The flowers and bee game is a guessing based word game. A word is randomly chosen from a 10,000 word file. For each word inputted into the terminal, a number of flowers and bees is returned until the word is guessed correctly. Flowers occur when the position and letter in two words matchup. Bees occur when a letter in two words matchup but their positions are different.
