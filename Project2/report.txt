@@ -1,0 +1,16 @@
+Notable Obstacles:
+I encountered two problems throughout this project. The first problem involved checking whether the fake athlete input was (y/n) or not. Originally, I programmed that if the string input was equal to “y” or “n”, then execute the code following. However, this would always be true. I realized this was the case because my syntax was incorrect. The solution involved changing the statement to check if the input was equal to “y” or the input was equal to “n”, then executing the code for calculating the fine. Printing out the statement “You must enter y or n.” would be in the else statement.
+The second problem I encountered involved my fine calculation. At first, I wrote my if statements as if (Amt_Paid – [number] < 0) to see if I should continue to check for cases where the fine percentage would be different. This was a logic error and I needed to use the > sign instead.
+
+Test Cases:
+Testing 0 dollars for base fine (Bob, 0, n)
+Testing for no string input (, NA, NA)
+Testing for negative dollars (Bob, -1, NA)
+Testing for not y or n (Bob, 5, c)
+Testing 0-40 range (Bob, 34, n)
+Testing 40 (Bob, 40, n)
+Testing 40-210 range (Bob, 186, n)
+Testing 210 (Bob, 210, n)
+Testing 210+ range (Bob, 268, n)
+Testing athlete condition (Bob, 272, y)
+
